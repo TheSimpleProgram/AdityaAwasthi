@@ -53,8 +53,8 @@ h3 {
 .circle-image {
   width: 300px;
   height: 300px;
-  object-fit: cover; /* Ensures the image covers the area without distortion */
-  border-radius: 50%; /* Makes the image a perfect circle */
+  object-fit: cover;
+  border-radius: 50%; 
   border: 2px solid #3366FF;
   
 
@@ -497,3 +497,4 @@ footer {
     height: 180px;
   }
 }
+
